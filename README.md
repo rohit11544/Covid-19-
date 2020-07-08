@@ -42,6 +42,6 @@ Covid, Normal, Viral Pneumonia. This data set contain total of 312 examples (inc
 ### accuracy vs the number of epochs
 
 <img src="https://user-images.githubusercontent.com/61901749/86912091-fe2ed480-c139-11ea-8cb4-8427804128c7.png" width=400>
-
+ 
  ## MODEL ACCURACY : 95.23%
  
